@@ -1,0 +1,10 @@
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/Challenge2/bin/Debug/netcoreapp2.0/Challenge2.deps.json
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/Challenge2/bin/Debug/netcoreapp2.0/Challenge2.runtimeconfig.json
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/Challenge2/bin/Debug/netcoreapp2.0/Challenge2.runtimeconfig.dev.json
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/Challenge2/bin/Debug/netcoreapp2.0/Challenge2.dll
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/Challenge2/bin/Debug/netcoreapp2.0/Challenge2.pdb
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/Challenge2/obj/Debug/netcoreapp2.0/Challenge2.csproj.CoreCompileInputs.cache
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/Challenge2/obj/Debug/netcoreapp2.0/Challenge2.AssemblyInfoInputs.cache
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/Challenge2/obj/Debug/netcoreapp2.0/Challenge2.AssemblyInfo.cs
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/Challenge2/obj/Debug/netcoreapp2.0/Challenge2.dll
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/Challenge2/obj/Debug/netcoreapp2.0/Challenge2.pdb

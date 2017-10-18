@@ -1,0 +1,10 @@
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/WeeklyChallenges10-9-17/bin/Debug/netcoreapp2.0/Challenge1.deps.json
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/WeeklyChallenges10-9-17/bin/Debug/netcoreapp2.0/Challenge1.runtimeconfig.json
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/WeeklyChallenges10-9-17/bin/Debug/netcoreapp2.0/Challenge1.runtimeconfig.dev.json
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/WeeklyChallenges10-9-17/bin/Debug/netcoreapp2.0/Challenge1.dll
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/WeeklyChallenges10-9-17/bin/Debug/netcoreapp2.0/Challenge1.pdb
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/WeeklyChallenges10-9-17/obj/Debug/netcoreapp2.0/Challenge1.csproj.CoreCompileInputs.cache
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/WeeklyChallenges10-9-17/obj/Debug/netcoreapp2.0/Challenge1.AssemblyInfoInputs.cache
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/WeeklyChallenges10-9-17/obj/Debug/netcoreapp2.0/Challenge1.AssemblyInfo.cs
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/WeeklyChallenges10-9-17/obj/Debug/netcoreapp2.0/Challenge1.dll
+/Users/chrishamilton/Projects/WeeklyChallenges10-9-17/WeeklyChallenges10-9-17/obj/Debug/netcoreapp2.0/Challenge1.pdb
